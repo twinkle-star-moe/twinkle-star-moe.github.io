@@ -1,0 +1,5 @@
+
+# ignore hugo files 
+.hugo_build.lock
+/public
+
