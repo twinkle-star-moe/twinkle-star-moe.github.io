@@ -1,11 +1,11 @@
-baseURL = 'https://inferno.moe/'
+baseURL = 'https://twinkle-star.moe/'
 languageCode = 'en-us'
-title = 'inferno.moe'
+title = 'twinkle-star.moe'
 theme = 'hugo-theme-shell'
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Welcome to the Inferno!"
+  description = "UNOFFICIAL site for Twinkle.STAR project!"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -26,7 +26,7 @@ theme = 'hugo-theme-shell'
   # ...
   # Note: result of the tree command
   userName = "seal"
-  pcName = "inferno.moe"
+  pcName = "twinkle-star.moe"
   workDir = "website"
   profile = "profile.txt"
 
@@ -54,8 +54,8 @@ theme = 'hugo-theme-shell'
   description = """
     Hi I am 麻辣椒盐海豹! 
     Nice to meet you!
-    This website is under development! 
-    See you soon!
+    This is an unofficial website for Twinkle.STAR project. 
+    Still under development. See you soon!
    
     """
 
@@ -65,11 +65,14 @@ theme = 'hugo-theme-shell'
 
   [Params.Tree]
   use = true
-  folderName = "future_page"
+  folderName = "five_stars"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Lumière", "https://lumi.inferno.moe/"],
-    ["Luna", "https://luna.inferno.moe/"],
+    ["古堡龙姬", "https://space.bilibili.com/686201061/"],
+    ["永恒娘Tiny", "https://space.bilibili.com/1377212676/"],
+    ["dodo", "https://space.bilibili.com/1855519979/"],
+    ["露米Lumi", "https://space.bilibili.com/2000609327/"],
+    ["露娜Luna", "https://space.bilibili.com/1908273021"],
   ]
 
 
